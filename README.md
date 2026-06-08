@@ -6,3 +6,5 @@ A collection of cybersecurity study notes compiled from TryHackMe, books, and co
 
 | Topic | Link |
 |-------|------|
+| Encryption | [notes](encryption/encryption.md) |
+
